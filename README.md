@@ -1,6 +1,6 @@
 # Logistics Performance Analytics Pipeline
 
-## 📖 Overview
+## Overview
 This project implements a robust **ETL (Extract, Transform, Load) pipeline** to clean real-world logistics data and visualize supply chain performance. It transforms raw, dirty shipment logs into actionable insights regarding **delivery delays, transporter efficiency, and cost optimization**.
 
 The workflow consists of a Python-based data cleaning script and a Power BI dashboard optimized for Natural Language Query (Q&A).
